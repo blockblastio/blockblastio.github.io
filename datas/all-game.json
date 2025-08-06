@@ -9,11 +9,38 @@
         "order": 1
     },
     {
+        "slug": "Block-Blast-2",
+        "title": "Block Blast 2",
+        "images": "Block-Blast-2.jpg",
+        "url": "https://html5.gamedistribution.com/220c4970c7644c8f8cb5742cc9fa24ca/??gd_sdk_referrer_url=https://blockblastonline.com/block-blast-2",
+        "category": "Hot",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "slug": "Tetris",
+        "title": "Tetris",
+        "images": "Tetris.png",
+        "url": "https://ad-freegames.github.io/flash/game/tetris.html",
+        "category": "Hot",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "slug": "Block-Puzzle",
+        "title": "Block Puzzle",
+        "images": "Block-Puzzle.jpeg",
+        "url": "https://html5.gamedistribution.com/7c3e6d45e34b4a8e9f9e3d5be00476eb/?gd_sdk_referrer_url=https://blockblastonline.com/block-puzzle",
+        "category": "Hot",
+        "status": 1,
+        "order": 1
+    },
+    {
         "slug": "Sprunki-World",
         "title": "Sprunki Dandy's World",
         "images": "Sprunki-World.jpg",
         "url": "https://iframegame.com/embed/sprunki-world/index.html",
-        "category": "Hot",
+        "category": "New",
         "status": 1,
         "order": 1
     },
@@ -22,7 +49,7 @@
         "title": "Sprunki Phase 5",
         "images": "Sprunki-Phase-5.jpg",
         "url": "https://sprunki.org/sprunki-phase-5.embed",
-        "category": "Hot",
+        "category": "New",
         "status": 1,
         "order": 1
     },
@@ -31,7 +58,7 @@
         "title": "Sprunki Definitive Phase 4 Reupload",
         "images": "Sprunki-Definitive-Phase-4-Reupload.jpg",
         "url": "https://iframegame.com/embed/sprunki-definitive-phase-4-reupload/index.html",
-        "category": "Hot",
+        "category": "New",
         "status": 1,
         "order": 1
     },
@@ -40,7 +67,7 @@
         "title": "Sprunked",
         "images": "Sprunked.jpg",
         "url": "https://sprunki.org/sprunked.embed",
-        "category": "Hot",
+        "category": "New",
         "status": 1,
         "order": 1
     },
@@ -49,7 +76,7 @@
         "title": "Sprunki Clicker",
         "images": "Sprunki-Clicker.jpg",
         "url": "https://sprunki.org/sprunki-clicker.embed",
-        "category": "Hot",
+        "category": "New",
         "status": 1,
         "order": 1
     },
@@ -58,7 +85,7 @@
         "title": "Sprunki Phase 4",
         "images": "Sprunki-Phase-4.jpg",
         "url": "https://sprunki.org/sprunki-phase-4.embed",
-        "category": "Hot",
+        "category": "New",
         "status": 1,
         "order": 1
     },
@@ -67,7 +94,7 @@
         "title": "Sprunki FNF",
         "images": "Sprunki-FNF.jpg",
         "url": "https://fnf.kdata1.com/2024/sprunki-sprunkin/1/",
-        "category": "Hot",
+        "category": "New",
         "status": 1,
         "order": 1
     },
@@ -76,7 +103,7 @@
         "title": "Geometry Game",
         "images": "Geometry-Game.png",
         "url": "https://games.crazygames.com/en_US/geometry-dash-online/index.html",
-        "category": "Hot",
+        "category": "New",
         "status": 1,
         "order": 1
     },

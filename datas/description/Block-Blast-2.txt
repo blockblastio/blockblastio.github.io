@@ -1,0 +1,9 @@
+Block Blast 2 Gameplay
+Unlike traditional Tetris, where blocks fall continuously, in Block Blast 2, you will drag and drop blocks onto a game board. The game board is an 8x8 grid. Your goal is to arrange the blocks to fill an entire horizontal row or vertical column. When a row or column is filled, the blocks in that row/column are removed from the board, freeing up space, and you will receive points. Outside the grid will appear three blocks of different shapes randomly. You must place all three of these blocks on the board before receiving three new blocks. A key element that makes Block Blast 2 challenging is that the blocks cannot be rotated. You must place them in the correct shape, which requires better spatial thinking and planning. The game ends when you have no more space to place any of the three blocks provided.
+
+Tips for playing Block Blast 2 effectively
+Always observe the entire board to consider the position of the new block; do not just focus on a certain corner. Three blocks will appear outside the grid, and you need to observe to choose and prioritize the order of taking blocks to put into the grid so that it is reasonable to create many columns, rows, or even combos to optimize points.
+
+Try to clean up the columns and rows regularly so that the board always has as much space as possible. If you let the board be filled with scattered or difficult-to-match blocks, it will be easy for the board to be full and unable to match new large blocks. Instead of just clearing each small row, try to create large gaps or open shapes to accommodate larger or more complex blocks that the game may introduce later.
+
+To play more block games, visit Block Blast every day to relax and improve your brain power.

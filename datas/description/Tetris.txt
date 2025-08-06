@@ -1,0 +1,5 @@
+Rules of Tetris
+Your goal is to arrange falling blocks to form horizontal rows with no gaps. These falling blocks are called Tetriminos. When the blocks are formed into a complete horizontal row, they will disappear, creating empty space for you to continue to match new blocks. You need to destroy as many horizontal blocks as possible to score higher. You can completely rotate and move Tetriminos blocks to the desired positions in the matrix. Note that the blocks will fall freely and you do not have much time to rotate the blocks too much, you should observe and rotate them in the most suitable positions to fill the horizontal columns.
+
+Score
+You will receive points for successfully clearing any horizontal row. The number of points you receive depends on the number of rows you clear at once and your current level. Clearing multiple rows at once (e.g. clearing 4 rows at once, called "Tetris") will give you more points.

@@ -1,0 +1,37 @@
+About Block Puzzle
+Block Puzzle is a classic and addictive puzzle game. Drag and arrange different-shaped blocks on a fixed board to clear the full rows or columns.
+
+You are given a set of blocks of various shapes and must fit them into a grid, clearing rows or columns when the grid is fully filled. While it may seem straightforward, Block Puzzle requires strategic thinking and careful planning to avoid running out of space, making it relaxing and challenging.
+
+Block Puzzle is known for its versatility. It offers players a variety of modes, designs, and challenges, which keeps them engaged and entertained. This game tests your spatial awareness, puzzle-solving skills, and ability to think ahead.
+
+The Features
+Block Puzzle is loved for its simplicity and depth. Some of its key features include:
+
+Simple Yet Addictive Gameplay: The core gameplay revolves around fitting blocks into a grid and clearing rows or columns. The addictive nature of the game comes from the increasing challenge as the grid fills up.
+Multiple Game Modes: Block Puzzle often comes with various modes, including classic play, timed challenges, and survival modes, offering different levels of difficulty and excitement.
+Relaxing Design: The visual design of Block Puzzle is usually calming, with smooth animations and minimal distractions, helping players focus on the puzzle at hand.
+No Time Limits: Players can enjoy Block Puzzle at their own pace, making it a great way to unwind without the pressure of a countdown timer.
+How to Play Block Puzzle
+Fitting randomly shaped blocks into a grid, clearing rows or columns when they are completely filled. The game is over when you can no longer fit any new blocks onto the grid. To avoid running out of space, players must think ahead and plan their block placements carefully.
+
+Block Puzzle Gameplay
+Drag and Drop: Drag and drop the blocks of varying shapes onto the grid, aiming to fit them in a way that clears rows or columns.
+Clear Lines: The objective is to fill an entire row or column with blocks. Once a line is fully filled, it will disappear, making room for new blocks.
+Random Blocks: Once you place the three provided blocks, a new set of blocks will appear. The blocks are generated randomly, so every game presents a unique challenge.
+Tips and Strategies
+Plan Your Moves: Since the blocks are randomly generated, it’s important to think ahead and plan your moves carefully.
+Use Corners: Try to place larger, awkward-shaped blocks in the corners of the grid. This will free up space in the center, where smaller blocks are easier to fit.
+Save Space: Avoid leaving small gaps on the grid, as they can be difficult to fill later on. Always aim to leave as much open space as possible.
+Don't Rush: Since there is no time limit, take your time and consider all your options before placing a block.
+Focus on Clearing Lines: Always prioritize moves that clear rows or columns, as this will give you more space to work with and boost your score.
+Benefits of playing Block Puzzle
+Playing this game, players must think logically, and find a way to arrange the blocks reasonably to achieve the highest score. Therefore, your logical thinking ability will be significantly improved.
+To complete a level, you need to focus highly on observing and analyzing the blocks. This helps improve your ability to concentrate and maintain concentration for a long time.
+When encountering difficult levels, you need to patiently find solutions. This helps train patience and perseverance.
+Focusing on puzzles helps you forget the worries and stress in life. This is an effective way to relax after stressful working hours.
+Similar Block Games
+Block Champ: A strategic block puzzle game that adds a twist with lightning and frozen tiles.
+Blocksss: A relaxing block puzzle game where players fit various shapes into a grid, offering simple yet addictive gameplay.
+Forest Tiles: A visually soothing block puzzle game set in a nature-inspired environment.
+Block Blast: Similar to Block Puzzle, Block Blast involves fitting blocks into a grid to clear rows and columns.
