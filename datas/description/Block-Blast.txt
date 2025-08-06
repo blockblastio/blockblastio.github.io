@@ -1,0 +1,63 @@
+About Block Blast
+The legendary game Tetris inspires Block Blast, and as such, they share some similarities. The core objective is to arrange falling blocks to form complete horizontal lines or vertical columns. Once a line or column is full, the blocks are removed from the board.
+
+The gameplay is relatively easy to understand, but becoming a master requires practice. The game is a test of logical thinking and strategy, and to achieve high scores, players need to arrange the blocks in a calculated and strategic way.
+
+How to Play
+1. Remove Blocks
+The goal is to arrange blocks in rows or columns to remove them from the board. Small squares are removed only when you successfully arrange them to fill an entire row or column. If a row or column is incomplete, the blocks will not be removed.
+
+2. Increase Your Score
+You receive additional points for each column you destroy. Your score is displayed on the heart icon in the middle of the screen, making it easy to track. The more blocks you remove, the higher your score.
+
+3. Observe and Plan
+The blocks ready to be used are at the bottom of the screen. Three blocks appear randomly, and based on your strategy, you can choose which to use first and last, and where to place them for the best result.
+
+4. When Does the Game End?
+The difficulty increases as you reach higher scores. The game ends when you can no longer fit the random blocks onto the board. The more empty space you have, the better your chances of continuing the challenge.
+
+How to Calculate Points
+1. Basic Score
+You get 10 points every time you destroy a colored brick block in a horizontal or vertical column.
+
+2. Combos
+If you remove more than one line at a time or remove lines consecutively, you receive bonus points for combo moves.
+
+Combo of 1 line: +20 points
+
+Combo of 2 lines: +30 points
+
+Combo of 3 lines: +40 points
+
+Combo of 4 lines: +50 points
+
+Combo of 5 lines: +60 points
+
+Combo of 6 lines: +70 points
+
+Combo of 7 lines: +80 points
+
+Combo of 8 lines: +90 points
+
+Combo of 9 lines: +100 points
+
+3. Special Blocks
+The game also includes special blocks like bombs or power-ups, which can help you clear a large part of the board and earn more points.
+
+4. Challenges
+You may occasionally encounter challenges such as ice blocks or iron cages, which block certain areas of the board. Eliminating these challenges can open up opportunities for extra points.
+
+Tips for High Scores
+1. Movement Restrictions
+You cannot move geometric shapes once you have placed them.
+
+You cannot rotate or change the direction of the blocks. You must use them as they appear and drag them to a position that matches their shape.
+
+The colors are for visual appeal only; the main goal is to fill the rows and columns.
+
+2. Best Practices
+Create Many Combos: Aim for the longest possible combos, as the bonus points increase significantly.
+
+Plan Your Moves: Take time to observe the board and find the best position for each block instead of rushing.
+
+Be Flexible: Strategically use your special blocks to clear obstacles and overcome difficult situations.
