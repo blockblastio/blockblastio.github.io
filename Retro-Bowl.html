@@ -403,12 +403,12 @@
 
             fbShareBtn.addEventListener('click', function() {
                 const quote = `${shareTitle} - ${shareDesc}\n${shareUrl}`;
-                const url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(quote)}&hashtag=%23SprunkiUnblocked`;
+                const url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}&quote=${encodeURIComponent(quote)}&hashtag=%23RetroBowl`;
                 window.open(url, '_blank', 'width=600,height=400');
             });
             twShareBtn.addEventListener('click', function() {
                 const tweetText = `${shareTitle} - ${shareDesc} ${shareUrl}`;
-                const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetText)}&hashtags=SprunkiUnblocked&via=EpicWebGames`;
+                const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetText)}&hashtags=RetroBowl&via=EpicWebGames`;
                 window.open(url, '_blank', 'width=600,height=400');
             });
 
